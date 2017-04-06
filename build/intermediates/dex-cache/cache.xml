@@ -2,175 +2,157 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f20a67afccaa2c17828f90923e27db36886f6489/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Sunil/.android/build-cache/94e867ad6b33bf425ed9aae2bd60feb417c9c95d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e59e0243e853dc46fbc292395e33d64d5b7db47/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Sunil/.android/build-cache/d3bf9b6f7b5420a3ba20c0757d92e9eb035fec1f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46674fab9dd0b2605c0870840bc7dfee8ecf27ed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Sunil/.android/build-cache/35eb32512f636090cf3e873ee27a73dc6fc084c8/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f400cf78a83146abaa03bd490e44f6620846efca/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Sunil/.android/build-cache/2897da94bfad3a34085ec3bb513f81bbb99c67a6/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2eda763460dfe2358d710c2ee9837f6d9b0f43d1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/Sunil/.android/build-cache/5b595fefcd576cb6b85fbad303703769451378a3/output/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6c87d42b9f127cef4a61864823265aafd8e9fd63/classes.dex" />
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6c87d42b9f127cef4a61864823265aafd8e9fd63.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Sunil/.android/build-cache/fbdcb6a58f6d3b1445dc98f208fb6948637a1790/output/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Sunil/.android/build-cache/35eb32512f636090cf3e873ee27a73dc6fc084c8/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_96c277053096aa092ef2bd63f65be02de4fb236d/classes.dex" />
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/classes_f400cf78a83146abaa03bd490e44f6620846efca.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Sunil/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8251a55b1428b32c621021e70d62154c71179017/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Sunil/.android/build-cache/796fec4e55da1161090c99e9d11617a90c2ea48a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccaf3fc849f4500715e0326bdca3ec63a1b89b1a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Sunil/.android/build-cache/30fdc2e44b86c3ace2578ba3951e5ee5efbfb40f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5248ca60c1e5e0cc1fd7a19217b88ae72c14c29e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/Sunil/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_7de902ae3daefc3e46a486a0fd316baa9ac1f48f/classes.dex" />
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_7de902ae3daefc3e46a486a0fd316baa9ac1f48f.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Sunil/.android/build-cache/94e867ad6b33bf425ed9aae2bd60feb417c9c95d/output/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4d31f049f18fb85b7933dbafa681e07364b70096/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/Sunil/.android/build-cache/074d34b1999a737de7b1ba349464a91a7cf15ad5/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54811777be0d16ec9a041312e156963ea5f600c3/classes.dex" />
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/classes_54811777be0d16ec9a041312e156963ea5f600c3.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Sunil/.android/build-cache/2897da94bfad3a34085ec3bb513f81bbb99c67a6/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="859f2e92eb02b258bfaba1d2c78750570fd296f9">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_35f2f8c37e61490a6a460c0c2ecc61b01e256f03/classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/classes_2eda763460dfe2358d710c2ee9837f6d9b0f43d1.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Sunil/.android/build-cache/30fdc2e44b86c3ace2578ba3951e5ee5efbfb40f/output/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d04f4b425c2a0edd0865b95c553d4850e85c9c42/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/Sunil/.android/build-cache/5b595fefcd576cb6b85fbad303703769451378a3/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_230cda8f97dadacb77229880bddf1ac6a22c7475/classes.dex" />
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/classes_230cda8f97dadacb77229880bddf1ac6a22c7475.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/Sunil/.android/build-cache/91630eb6f9eff78bc929f3203d86bb8161a5ce52/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d1d3679bbad0b5372e8dd7202523419e1c1666d/classes.dex" />
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/classes_4d1d3679bbad0b5372e8dd7202523419e1c1666d.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/Sunil/.android/build-cache/d3bf9b6f7b5420a3ba20c0757d92e9eb035fec1f/output/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_63c02523888f7945251365a63a886cd5f8411bbc/classes.dex" />
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_63c02523888f7945251365a63a886cd5f8411bbc.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/Sunil/.android/build-cache/fbdcb6a58f6d3b1445dc98f208fb6948637a1790/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e74bf778d7501a2f22ca9c00367cab1d559dc808/classes.dex" />
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/classes_e74bf778d7501a2f22ca9c00367cab1d559dc808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Sunil/.android/build-cache/d3bf9b6f7b5420a3ba20c0757d92e9eb035fec1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/classes_46674fab9dd0b2605c0870840bc7dfee8ecf27ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Sunil/.android/build-cache/94e867ad6b33bf425ed9aae2bd60feb417c9c95d/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4d31f049f18fb85b7933dbafa681e07364b70096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Sunil/.android/build-cache/796fec4e55da1161090c99e9d11617a90c2ea48a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/classes_ccaf3fc849f4500715e0326bdca3ec63a1b89b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Sunil/.android/build-cache/94e867ad6b33bf425ed9aae2bd60feb417c9c95d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/classes_4e59e0243e853dc46fbc292395e33d64d5b7db47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Sunil/.android/build-cache/fbdcb6a58f6d3b1445dc98f208fb6948637a1790/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_96c277053096aa092ef2bd63f65be02de4fb236d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Sunil/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_8251a55b1428b32c621021e70d62154c71179017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Sunil/.android/build-cache/30fdc2e44b86c3ace2578ba3951e5ee5efbfb40f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/classes_5248ca60c1e5e0cc1fd7a19217b88ae72c14c29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Sunil/.android/build-cache/30fdc2e44b86c3ace2578ba3951e5ee5efbfb40f/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Sunil/androidProjects/DevtaWebView/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d04f4b425c2a0edd0865b95c553d4850e85c9c42.jar" />
     </item>
 
 </items>
